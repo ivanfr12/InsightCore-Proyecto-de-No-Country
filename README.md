@@ -159,8 +159,8 @@ PAYPAL_CLIENT_SECRET=tu_client_secret_sandbox
 
 ### 1. Clonar repositorio
 
-```bash
-git clone https://github.com/peterCocho/repo-base-protected.git
+```bash[
+https://github.com/ivanfr12/InsightCore-Proyecto-de-No-Country.git
 ```
 
 ### 2. Entrenar modelo y lanzar API
