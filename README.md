@@ -1,6 +1,7 @@
 Descripción: MVP de predicción de churn con Java Spring Boot, Python FastAPI y Machine Learning. Desarrollado en hackathon No Country.
-Topics: java, spring-boot, python, fastapi, machine-learning, postgresql, docker, rest-api, jwt
-Link de youtube: https://www.youtube.com/watch?v=sqEExy1WL-8&t=2s
+Topics: java, spring-boot, python, fastapi, machine-learning, postgresql, docker, rest-api, jwt.
+
+# Link de youtube: https://www.youtube.com/watch?v=sqEExy1WL-8&t=2s
 # 📊 InsightCore
 
 Objetivo:
